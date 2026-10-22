@@ -5,7 +5,7 @@ for Texas, North Carolina and Florida, as plain CSV files.
 
 | File | Rows | What it contains |
 |---|---|---|
-| `data/counties.csv` | 3,133 | Median real estate tax, median home value, median effective rate, median owner household income and tax share of income for each county (and county equivalent) |
+| `data/counties.csv` | 3,135 | Median real estate tax, median home value, median effective rate, median owner household income and tax share of income for each county (and county equivalent) |
 | `data/states.csv` | 51 | The same measures for the 50 states and D.C. |
 | `data/texas_tax_rates_2025.csv` | 4,849 | Every Texas county, city, school district and special district rate for 2025, with the 2024 rate where the unit existed |
 | `data/north_carolina_tax_rates_2025_26.csv` | 690 | County and municipal rates for 2025–26, combined and effective combined rates, previous-year rate and last reappraisal year |
@@ -33,14 +33,14 @@ for Texas, North Carolina and Florida, as plain CSV files.
 | `fips` | The county's five-digit Federal Information Processing Standards code. |
 | `state` | The county's two-letter state abbreviation. |
 | `county` | The county name. |
-| `median_real_estate_tax` | The median annual real estate tax in US dollars, from ACS 2019-2023 5-year estimates. |
+| `median_real_estate_tax` | The median annual real estate tax in US dollars, from ACS 2020-2024 5-year estimates. |
 | `median_tax_flag` | '10000+' when the median tax is $10,000 or more and '<200' when it is below $200 (the Census reports these as 10001 and 199, so the effective rate is a bound); empty otherwise. |
-| `median_home_value` | The median owner-occupied home value in US dollars, from ACS 2019-2023 5-year estimates. |
+| `median_home_value` | The median owner-occupied home value in US dollars, from ACS 2020-2024 5-year estimates. |
 | `effective_rate_pct` | Median real estate taxes divided by median home value, expressed as a percent. |
-| `median_owner_household_income` | The median income of owner households in US dollars, from ACS 2019-2023 5-year estimates. |
+| `median_owner_household_income` | The median income of owner households in US dollars, from ACS 2020-2024 5-year estimates. |
 | `tax_share_of_income_pct` | Median tax divided by median owner household income, expressed as a percent. |
 | `owner_occupied_units` | The number of owner-occupied housing units. |
-| `population` | The county population from ACS 2019-2023 5-year estimates. |
+| `population` | The county population from ACS 2020-2024 5-year estimates. |
 | `rank_in_state` | The county's effective rate rank within its state, with 1 meaning the highest rate. |
 | `rank_national` | The county's effective rate rank nationally, with 1 meaning the highest rate. |
 
@@ -51,10 +51,10 @@ for Texas, North Carolina and Florida, as plain CSV files.
 | `fips` | The state's two-digit Federal Information Processing Standards code. |
 | `state` | The two-letter state abbreviation. |
 | `name` | The state name. |
-| `median_real_estate_tax` | The median annual real estate tax in US dollars, from ACS 2019-2023 5-year estimates. |
-| `median_home_value` | The median owner-occupied home value in US dollars, from ACS 2019-2023 5-year estimates. |
+| `median_real_estate_tax` | The median annual real estate tax in US dollars, from ACS 2020-2024 5-year estimates. |
+| `median_home_value` | The median owner-occupied home value in US dollars, from ACS 2020-2024 5-year estimates. |
 | `effective_rate_pct` | Median real estate taxes divided by median home value, expressed as a percent. |
-| `median_owner_household_income` | The median income of owner households in US dollars, from ACS 2019-2023 5-year estimates. |
+| `median_owner_household_income` | The median income of owner households in US dollars, from ACS 2020-2024 5-year estimates. |
 | `rank` | The state's effective rate rank, with 1 meaning the highest rate. |
 | `counties` | The number of counties represented in the state estimate. |
 
@@ -104,7 +104,7 @@ for Texas, North Carolina and Florida, as plain CSV files.
 
 ## Sources
 
-- U.S. Census Bureau, American Community Survey 2019–2023 5-year estimates, tables B25103 (median
+- U.S. Census Bureau, American Community Survey 2020–2024 5-year estimates, tables B25103 (median
   real estate taxes paid), B25077 (median home value), B25003 (tenure), B25119 (household income by
   tenure) and B01003 (population)
 - Texas Comptroller of Public Accounts, tax rates and levies, 2025 and 2024

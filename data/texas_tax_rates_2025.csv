@@ -884,9 +884,6 @@ county_fips,county,taxing_unit,unit_type,rate_per_100_2025,rate_per_100_2024
 48103,Crane County,Crane County Hospital District,hospital,0.135285,0.197783
 48103,Crane County,Crane ISD,school,0.8454,0.93232
 48103,Crane County,Crane County Water District,special,0.124,0.124
-48105,Crockett County,Crockett County,county,0.880003,0.789892
-48105,Crockett County,Crockett County CCSD,school,1.134,1.144
-48105,Crockett County,Crockett County Groundwater District,special,0.014867,0.014883
 48107,Crosby County,Crosby County,county,0.686035,0.675
 48107,Crosby County,Crosbyton,city,0.625493,0.653636
 48107,Crosby County,Lorenzo,city,0.899766,0.90917
@@ -1147,10 +1144,6 @@ county_fips,county,taxing_unit,unit_type,rate_per_100_2025,rate_per_100_2024
 48135,Ector County,Ector County Hospital District,hospital,0.213344,0.100373
 48135,Ector County,Ector County ISD,school,1.0048,1.014
 48135,Ector County,Ector County Utility District,special,0.0,0.0
-48137,Edwards County,Edwards County,county,0.691431,0.667303
-48137,Edwards County,Rocksprings,city,0.582027,0.660668
-48137,Edwards County,Nueces Canyon CISD,school,0.7314,0.7552
-48137,Edwards County,Rocksprings ISD,school,0.8453,0.8603
 48141,El Paso County,El Paso County,county,0.458889,0.426323
 48141,El Paso County,Anthony,city,1.107454,0.88855
 48141,El Paso County,Clint,city,0.641499,0.589445
@@ -3023,6 +3016,8 @@ county_fips,county,taxing_unit,unit_type,rate_per_100_2025,rate_per_100_2024
 48267,Kimble County,Kimble County Hospital District,hospital,0.311,0.3226
 48267,Kimble County,Kimble County Ground WCD,other,0.0078,0.0076
 48267,Kimble County,Junction ISD,school,0.6618,0.6692
+48269,King County,King County,county,0.9347,0.9347
+48269,King County,Guthrie CSD,school,0.8022,1.018
 48271,Kinney County,Kinney County,county,0.4672,0.4675
 48271,Kinney County,Brackettville,city,0.512,0.5215
 48271,Kinney County,Spofford,city,0.192,0.1964
@@ -3887,6 +3882,11 @@ county_fips,county,taxing_unit,unit_type,rate_per_100_2025,rate_per_100_2024
 48383,Reagan County,Reagan County ISD,school,0.8862,0.8885
 48383,Reagan County,Reagan County Water Supply District,special,0.016182,0.014823
 48383,Reagan County,Santa Rita Underground Water District,special,0.0,0.002092
+48385,Real County,Real County,county,0.53,0.53
+48385,Real County,Camp Wood,city,0.056998,0.60419
+48385,Real County,Real County ESD #1,emergency,0.1,0.1
+48385,Real County,Real-Edwards County C&RD,other,0.017,0.017
+48385,Real County,Leakey ISD,school,0.6669,0.8269
 48387,Red River County,Red River County,county,0.69158,0.6871
 48387,Red River County,Annona,city,0.10067,0.10855
 48387,Red River County,Avery,city,0.24147,0.27098
