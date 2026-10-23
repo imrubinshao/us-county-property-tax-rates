@@ -113,6 +113,12 @@ for Texas, North Carolina and Florida, as plain CSV files.
 - Florida Department of Revenue, Ad Valorem Valuation and Tax Data Book, millage and taxes levied
   2025 (data extract November 2025)
 
+Four values in the Texas Comptroller's 2025 file were checked against the taxing units' own
+documents and corrected: Fort Bend County 0.412 (the file repeats the total, giving 0.824, also in
+2024), Van Zandt County 0.3996 including its special road and bridge tax (no 2024 rate given), the City
+of Austin 0.524017 (the file has the Proposition Q rate that voters rejected in November 2025) and the
+City of McAllen 0.448989.
+
 ACS figures are survey estimates; small counties carry wide margins of error, and a few counties
 without enough responses are omitted. Connecticut appears as its nine planning regions, the Census
 county equivalents since 2022.
@@ -128,3 +134,5 @@ The compiled dataset is released under CC BY 4.0 (see LICENSE). The underlying g
 public. Please cite as:
 
 > County Property Taxes, *U.S. county property tax rates* (2026), https://countypropertytaxes.com/
+
+Also archived on Zenodo with DOI 10.5281/zenodo.23591802.

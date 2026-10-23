@@ -1314,7 +1314,7 @@ county_fips,county,taxing_unit,unit_type,rate_per_100_2025,rate_per_100_2024
 48155,Foard County,Crowell,city,1.066926,1.09
 48155,Foard County,Foard County Hospital District,hospital,0.335721,0.335721
 48155,Foard County,Crowell ISD,school,0.8705,0.9039
-48157,Fort Bend County,Fort Bend County,county,0.824,0.824
+48157,Fort Bend County,Fort Bend County,county,0.412,0.412
 48157,Fort Bend County,Arcola,city,0.649619,0.649619
 48157,Fort Bend County,Beasley,city,0.230918,0.310752
 48157,Fort Bend County,Fulshear,city,0.167903,0.161856
@@ -2605,7 +2605,7 @@ county_fips,county,taxing_unit,unit_type,rate_per_100_2025,rate_per_100_2024
 48215,Hidalgo County,Hidalgo,city,0.3514,0.3514
 48215,Hidalgo County,La Joya,city,0.5898,0.5898
 48215,Hidalgo County,La Villa,city,0.8111,0.8193
-48215,Hidalgo County,McAllen,city,0.076532,0.449989
+48215,Hidalgo County,McAllen,city,0.448989,0.449989
 48215,Hidalgo County,Mercedes,city,0.785,0.785
 48215,Hidalgo County,Mission,city,0.558,0.558
 48215,Hidalgo County,Palmview,city,0.5879,0.57
@@ -4230,7 +4230,7 @@ county_fips,county,taxing_unit,unit_type,rate_per_100_2025,rate_per_100_2024
 48451,Tom Green County,Water Valley ISD,school,1.184,1.2238
 48451,Tom Green County,Red Creek Water Utility District,special,0.2,0.2
 48453,Travis County,Travis County,county,0.375845,0.344445
-48453,Travis County,Austin,city,0.574017,0.4776
+48453,Travis County,Austin,city,0.524017,0.4776
 48453,Travis County,Bee Cave,city,0.02,0.02
 48453,Travis County,Briarcliff,city,0.0759,0.0691
 48453,Travis County,Creedmoor,city,0.45,0.419
@@ -4435,7 +4435,7 @@ county_fips,county,taxing_unit,unit_type,rate_per_100_2025,rate_per_100_2024
 48465,Val Verde County,Val Verde County Hospital District,hospital,0.0785,0.07515
 48465,Val Verde County,Comstock ISD,school,0.9165,0.9165
 48465,Val Verde County,San Felipe-Del Rio CISD,school,0.9363,0.9363
-48467,Van Zandt County,Van Zandt County,county,0.6992,0.30587
+48467,Van Zandt County,Van Zandt County,county,0.3996,
 48467,Van Zandt County,Canton,city,0.625,0.64
 48467,Van Zandt County,Edgewood,city,0.565262,0.5965
 48467,Van Zandt County,Grand Saline,city,0.76522,0.82
